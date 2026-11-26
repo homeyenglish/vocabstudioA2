@@ -1,0 +1,6 @@
+{
+  "name": "VokaKey SMK — Bahan Ajar Kosakata A2 Key",
+  "description": "Bahan ajar interaktif berbasis Cambridge English A2 Key (August 2025) untuk membantu siswa SMK menguasai kosakata bahasa Inggris dunia kerja dan ujian.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
